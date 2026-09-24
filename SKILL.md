@@ -1,6 +1,6 @@
 ---
 name: travel-booklet-design
-description: Create or revise traveler-facing itinerary booklets for domestic or international trips, including complete daily routes, practical maps, venue photos, tickets, and on-site guidance. Use for a travel guide or booklet artifact, not a quick travel recommendation.
+description: Create or revise traveler-facing itinerary booklets for domestic or international trips, including complete daily routes, practical maps, venue photos, tickets, optional detachable destination cards, and on-site guidance. Use for a travel guide or booklet artifact, not a quick travel recommendation.
 ---
 
 # Travel booklet design
@@ -12,6 +12,7 @@ Make a guide that a traveler can follow without guessing the next stop. Adapt th
 - For a trip within the traveler's home country, read [domestic trips](references/domestic.md).
 - For a trip crossing an international border, read [international trips](references/international.md).
 - For a mixed trip, use both where relevant. For a designed or printable artifact, also read [layout and quality](references/layout-and-quality.md). A plain-text guide may use the same content principles without adopting a page layout.
+- For a printed booklet, ask once whether the traveler wants detachable destination cards. If requested, read [detachable destination cards](references/detachable-cards.md); otherwise do not add a card section merely to fill pages.
 
 ## Core decisions
 
@@ -23,6 +24,7 @@ Make a guide that a traveler can follow without guessing the next stop. Adapt th
 6. Maps should have a genuine geographic base or be explicitly labeled a schematic. Keep the map focused enough to read, number stops consistently with the itinerary, give a legend, and distinguish visit order from a navigable path. Do not shrink a neighborhood map to include a faraway transfer point.
 7. Preserve operational documents. When including a ticket or voucher, crop the **original image** to retain the QR/barcode quiet zone plus passenger, date, origin/destination, booking, coach/seat, or entry time needed for inspection. Do not redraw codes or manually recreate a scannable ticket. Keep personal data in the user's deliverable only, never in this reusable skill or a sample asset.
 8. Translate useful signs and instructions into the traveler's language. If the traveler needs to say a phrase aloud, provide a pronounceable guide in the notation they understand; do not assume IPA is useful. Verify location-specific rules, opening times, transport schedules, rental availability, and entrance instructions against current authoritative sources when possible.
+9. Treat detachable cards as an optional travel aid, not a replacement for the daily route. A card removed from the booklet should remain usable on its own while the main booklet still shows the full itinerary and NEXT transitions.
 
 ## Adapt to the agent and deliverable
 
